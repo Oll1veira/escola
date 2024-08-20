@@ -17,10 +17,12 @@
     padding: 100px;
 }
 
-.cabecalho-imagem{
-width: 20%;
-.rodepe {
-    background-color: black;
-background-color: blue;
-padding: 100px;
+.cabecalho-imagem {
+    width: 20%;
+}
 
+    .rodepe {
+        background-color: black;
+        background-color: blue;
+        padding: 100px;
+    }
