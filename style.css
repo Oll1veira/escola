@@ -7,17 +7,16 @@
 
 .section1 {
     color: blueviolet;
-    background-color: rgb(0, 0, 0);
     padding: 100px;
 }
 
 .section2 {
-    background-color: black;
+    background-color: blueviolet;
     padding: 100px;
 }
 
 .section3 {
-background-color: black;
+background-color: blueviolet;
 padding: 100px;
 }
 
@@ -28,7 +27,7 @@ padding: 100px;
 }
 
     .rodepe {
-        background-color: black;
+        background-color: blueviolet;
         padding: 100px;
     }
     .rodepe
