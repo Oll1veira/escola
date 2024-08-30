@@ -1,4 +1,5 @@
 .cabecalho {
+    background-image: linear-gradient(black,blueviolet);
     background-color: black;
     color: blueviolet;
     display: flex;
