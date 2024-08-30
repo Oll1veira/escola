@@ -14,12 +14,14 @@
 }
 
 .section2 {
+    background-image: linear-gradient(black,blueviolet);
     background-color: black;
     color: blueviolet;
     padding: 100px;
 }
 
 .section3 {
+    background-image: linear-gradient(blueviolet,black);
 background-color: black;
 color: blueviolet;
 padding: 100px;
