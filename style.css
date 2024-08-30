@@ -6,17 +6,20 @@
 }
 
 .section1 {
+    background-color: black;
     color: blueviolet;
     padding: 100px;
 }
 
 .section2 {
-    background-color: blueviolet;
+    background-color: black;
+    color: blueviolet;
     padding: 100px;
 }
 
 .section3 {
-background-color: blueviolet;
+background-color: black;
+color: blueviolet;
 padding: 100px;
 }
 
@@ -25,7 +28,8 @@ padding: 100px;
 }
 
     .rodepe {
-        background-color: blueviolet;
-        padding: 100px;
+background-color: black;
+    color: blueviolet;
+padding: 100px;
     }
     .rodepe
